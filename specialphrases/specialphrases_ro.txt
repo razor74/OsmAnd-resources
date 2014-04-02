@@ -1,4 +1,3 @@
-
 aerodrome,Aeroport
 arts_centre,Centru de arte
 atm,ATM
@@ -146,7 +145,7 @@ rest_area,Punct de odihnă
 rest_area,Rest Stop
 road,Drum
 secondary,Drum secundar
-secondary_link,Drum secundar
+secondary_link,Conexiune drum secundar
 service,Drum de serviciu
 services,Arie servicii
 services,Servicii autostradă
@@ -156,7 +155,7 @@ tertiary,Drum terțiar
 track,Șine
 trail,Potecă
 trunk,Drum express
-trunk_link,Drum express
+trunk_link,Conexiune drum express
 unclassified,Drum neclasificat
 unsurfaced,Drum nepavat
 archaeological_site,Sit arheologic
