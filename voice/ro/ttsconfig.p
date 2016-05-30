@@ -97,19 +97,19 @@ string('reached_poi.ogg', 'you are passing POI ').
 string('exceed_limit.ogg', 'limita de viteză depăşită').
 %string('exceed_limit.ogg', 'limita de viteză ').
 string('attention.ogg', 'atenţie, ').
-string('speed_camera.ogg', 'camera de viteza ').
+string('speed_camera.ogg', 'camera de viteză ').
 string('border_control.ogg', 'controlul la frontieră ').
 string('railroad_crossing.ogg', 'Trecere de cale ferată ').
 string('traffic_calming.ogg', 'calmant trafic ').
 string('toll_booth.ogg', 'cabina de taxare ').
-string('stop.ogg', 'opri semn ').
+string('stop.ogg', 'semn oprire ').
 string('pedestrian_crosswalk.ogg', 'trecere de pietoni ').
 
 % OTHER PROMPTS
 string('location_lost.ogg', 'semnal gipies pierdut ').
 string('location_recovered.ogg', 'semnal gipies recuperat ').
 string('off_route.ogg', 'aţi deviat de la rută').
-string('back_on_route.ogg', 'sunteți din nou pe ruta ').
+string('back_on_route.ogg', 'sunteți din nou pe rută ').
 
 % STREET NAME PREPOSITIONS
 string('onto.ogg', 'pe ').
